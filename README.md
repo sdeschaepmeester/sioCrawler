@@ -33,6 +33,7 @@ Le développement tourne autour de 3 grandes parties
 site web permettant à un joueur de s'inscrire en ligne.Le projet prévoit le principe suivant 
 pour l'inscription en ligne.
 ![acteurFluxInscription.png](imagesTpGit/acteurFluxInscription.png)
+![image](http://zupimages.net/viewer.php?id=19/27/3i31.png)
 >
 # sio crawler le jeu
 >

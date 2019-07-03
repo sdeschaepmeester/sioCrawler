@@ -38,7 +38,9 @@ pour l'inscription en ligne.
 >
 Le joueur possèdera les fonctionnalités suivantes:
 ![image](https://zupimages.net/up/19/27/50a0.png)
-les classes développées
+>
+Les classes développées
+>
 ![image](https://zupimages.net/up/19/27/i39q.png)
 >
 # Sauvegarde du contexte

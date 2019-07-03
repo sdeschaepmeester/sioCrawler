@@ -14,7 +14,9 @@ Les outils mis en oeuvre :
 Le développement tourne autour de 3 grandes parties
 >
 1.L'inscription en ligne
+>
 2.Développement du jeu en lui même permettant l'exploration d'un labyrinthe
+>
 3. La sauvegarde des personnages et du contexte du jeu
 >
 |développement         |langages |techniques de programmation                   |
@@ -23,12 +25,12 @@ Le développement tourne autour de 3 grandes parties
 |sio crawler le jeu    |c#       |programmation objet, tests unitaires          |
 |sauvegarde du contexte|c#, mysql|programmation procédurale, stockées en mysql  |
 >
-##L'inscription en ligne.##
+#L'inscription en ligne.#
 site web permettant à un joueur de s'inscrire en ligne.Le projet prévoit le principe suivant 
 pour l'inscription en ligne.
 ![acteurFluxInscription.png](imagesTpGit/acteurFluxInscription.png)
 >
-##sio crawler le jeu##
+#sio crawler le jeu#
 Le joueur possèdera les fonctionnalités suivantes:
 ![useCasePersonnage.png](imagesTpGit/useCasePersonnage.png)
 les classes développées

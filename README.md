@@ -17,7 +17,7 @@ Le développement tourne autour de 3 grandes parties
 >
 2.Développement du jeu en lui même permettant l'exploration d'un labyrinthe
 >
-3. La sauvegarde des personnages et du contexte du jeu
+3.La sauvegarde des personnages et du contexte du jeu
 >
 |développement         |langages |techniques de programmation                   |
 |----------------------|:-------:|:--------------------------------------------:|

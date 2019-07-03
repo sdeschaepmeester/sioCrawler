@@ -6,13 +6,13 @@ les heures de cantine mais surtout d'améliorer leurs compétences en développe
 >
 Les outils mis en oeuvre :
 >
-*git
+* git
 >
-*visual studio
+* visual studio
 >
-*mysql
+* mysql
 >
-*apache
+* apache
 >
 Le développement tourne autour de 3 grandes parties
 >

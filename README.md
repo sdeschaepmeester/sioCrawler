@@ -25,7 +25,7 @@ Le développement tourne autour de 3 grandes parties
 |sio crawler le jeu    |c#       |programmation objet, tests unitaires          |
 |sauvegarde du contexte|c#, mysql|programmation procédurale, stockées en mysql  |
 >
-#titre L'inscription en ligne.
+# L'inscription en ligne.
 >
 site web permettant à un joueur de s'inscrire en ligne.Le projet prévoit le principe suivant 
 pour l'inscription en ligne.

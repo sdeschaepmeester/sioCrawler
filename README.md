@@ -37,13 +37,11 @@ pour l'inscription en ligne.
 # sio crawler le jeu
 >
 Le joueur possèdera les fonctionnalités suivantes:
-![useCasePersonnage.png](imagesTpGit/useCasePersonnage.png)
 ![image](https://zupimages.net/up/19/27/50a0.png)
 les classes développées
-![diagrammeClassePersonnage.png](imagesTpGit/diagrammeClassePersonnage.png)
+![image](https://zupimages.net/up/19/27/i39q.png)
 >
 # Sauvegarde du contexte
 >
 La sauvegarde du contexte se fera dans la base de données.
-![mcdSauvegarde.png](imagesTpGit/mcdSauvegarde.png)
 ![image](https://zupimages.net/up/19/27/c1am.png)
